@@ -44,7 +44,7 @@ private const val HTML_IMG_REGEX = "(?i)<[/]?[ ]?img(.|\n)*?>"
 private const val BACKGROUND_COLOR = "#202020"
 private const val QUOTE_BACKGROUND_COLOR = "#383b3f"
 private const val QUOTE_LEFT_COLOR = "#686b6f"
-private const val TEXT_COLOR = "#C0C0C0"
+private const val TEXT_COLOR = "#FFFFFF"
 private const val SUBTITLE_COLOR = "#8c8c8c"
 private const val SUBTITLE_BORDER_COLOR = "solid #303030"
 private const val CSS = "<head><style type='text/css'> " +
